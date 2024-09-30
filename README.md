@@ -196,31 +196,31 @@ ORDER BY data_entrevista;
 
 ## Anexo 02 - Visualizações em Power BI
 
-Visualização das respostas relacionadas aos principais sintomas da COVID-19.
+#### Visualização das respostas relacionadas aos principais sintomas da COVID-19
 
 É interessante notar o baixo número de respostas positivas em relação aos sintomas.
 
 ![](imagens/powerbi-1.jpeg)
 
-Visualização das respostas relacionadas ao comportamento das pessoas durante a pandemia.
+#### Visualização das respostas relacionadas ao comportamento das pessoas durante a pandemia
 
 É notório que a resposta mais comum é que as pessoas reduziram contato, porém continuaram saindo para trabalho e/ou atividades essenciais e/ou recebendo visitas.
 
 ![](imagens/powerbi-2.jpeg)
 
-Visualização das características da população entrevistada quanto à idade e raça.
+#### Visualização das características da população entrevistada quanto à idade e raça
 
 Podemos notar que 90% dos entrevistados se consideram brancos ou pardos. Quanto à faixa etária, o grupo de 19 a 60 anos representa 59% dos entrevistados.
 
 ![](imagens/powerbi-3.jpeg)
 
-Visualização das características econômicas dos entrevistados durante a pandemia.
+#### Visualização das características econômicas dos entrevistados durante a pandemia
 
 É possível perceber que metade (50,02%) da população entrevistada recebeu auxílio emergencial. 
 
 ![](imagens/powerbi-4.jpeg)
 
-Visualização de locais de moradias das pessoas entrevistadas.
+#### Visualização de locais de moradias das pessoas entrevistadas
 
 Em suma, notamos que, apesar de serem entrevistadas pessoas do Brasil inteiro, as regiões Sul e Sudeste foram as mais representadas.
 
