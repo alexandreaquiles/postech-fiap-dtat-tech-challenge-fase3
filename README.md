@@ -26,6 +26,8 @@ A estruturação do banco foi feita utilizando as seguintes etapas:
 2. Power BI.
   * Importação dos dados em csv, e   
   * Criação de visualizações e filtros que permitiram uma segunda análise quanto aos grande números e a correlação das categorias selecionadas, conforme Anexo 02.
+  * Visualização online disponível em: https://app.powerbi.com/links/g7ZAJi6ik5?ctid=11dbbfe2-89b8-4549-be10-cec364e59551&pbi_source=linkShare (para acesso, contate rm355291@fiap.com.br)
+
 
 ### Arquivos
 
