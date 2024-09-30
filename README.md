@@ -236,12 +236,12 @@ ORDER BY data\_entrevista;
 
 ## Anexo 02 - Visualizações em Power BI
 
-![][imagens/powerbi-1.jpeg]
+![](imagens/powerbi-1.jpeg)
 
-![][imagens/powerbi-2.jpeg]
+![](imagens/powerbi-2.jpeg)
 
-![][imagens/powerbi-3.jpeg]
+![](imagens/powerbi-3.jpeg)
 
-![][imagens/powerbi-4.jpeg]
+![](imagens/powerbi-4.jpeg)
 
-![][imagens/powerbi-5.jpeg]
+![](imagens/powerbi-5.jpeg)
